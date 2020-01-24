@@ -1,6 +1,6 @@
-baseURL: https://example.com
+baseURL: http://daxsorbito.github.io
 languageCode: en-us
-title: Personal website and blog
+title: Personal blogs on my Aha! moments
 theme: hugo-refresh
 # theme: ../..
 
@@ -90,9 +90,9 @@ params:
   # homepage options
   homepage:
     # option to specify the title in the homepage
-    title: Julia The White
+    title: Dax Aha! moments
     # option to specify the subtitle in the homepage
-    subtitle: Personal website and blog
+    subtitle: Personal blogs on my Aha! moments
     # option to specify image in the homepage
     image: "/images/avataaars.png" # worker.svg 
     # option to specify the width of the image in the homepage

@@ -1,3 +1,7 @@
 [submodule "themes/hugo-refresh"]
 	path = themes/hugo-refresh
 	url = https://github.com/PippoRJ/hugo-refresh.git
+[submodule "public"]
+	path = public
+	url = https://github.com/daxsorbito/daxsorbito.github.io.git
+	branch = master
