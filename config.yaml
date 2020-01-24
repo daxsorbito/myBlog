@@ -8,7 +8,7 @@ theme: hugo-refresh
 ######## Uncomment this option #########
 ########################################
 # This options specify where to look for the images
-# assetDir: "static"
+assetDir: "static"
 
 # Option to specify the default language of the theme
 # I.e., the landing language of your root 
@@ -94,7 +94,7 @@ params:
     # option to specify the subtitle in the homepage
     subtitle: Personal blogs on my Aha! moments
     # option to specify image in the homepage
-    image: "/images/avataaars.png" # worker.svg 
+    image: "/images/image.jpeg" # worker.svg 
     # option to specify the width of the image in the homepage
     imageWidth: 500px
 
@@ -132,7 +132,7 @@ params:
     #    link: username
     #    title: Instagram
     # option to specify the copyright in the footer
-    copyright: Julia The White - 2019
+    copyright: Dax Sorbito - 2020
 
 ###################################################################
 ################## multilanguage support options ##################

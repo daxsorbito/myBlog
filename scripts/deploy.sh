@@ -11,6 +11,9 @@ hugo # if using a theme replace with `hugo -t <YOURTHEME>`
 # Go to public folder
 cd public
 
+# Remove everything
+rm -fr *
+
 # Add changes to git
 git add .
 
