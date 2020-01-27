@@ -8,11 +8,13 @@ printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 # Build the project
 hugo # if using a theme replace with `hugo -t <YOURTHEME>`
 
+# Remove everything
+rm -fr ./public/*
+
 # Go to public folder
 cd public
 
-# Remove everything
-rm -fr *
+
 
 # Add changes to git
 git add .

@@ -104,12 +104,12 @@ params:
     # the starting folder is configure in "assetDir" of this file
     logo: "/images/refresh-square.svg"
     # option to specify your contact email in the footer
-    email: 
-      link: name.surname@domain.com
-      title: My Email
+    # email: 
+    #   link: name.surname@domain.com
+    #   title: My Email
     # option to specify your linkedin profile in the footer
     linkedin: 
-      link: your_linkedin_profile
+      link: https://www.linkedin.com/in/daxsorbito/
       title: My LinkedIn
     # option to specify your facebook account in the footer; 
     # **uncomment** the lines below to show in footer
@@ -118,9 +118,9 @@ params:
     #   title: Facebook
     # option to specify your github account in the footer; 
     # **uncomment** the below lines to show in footer
-    # github: 
-    #   link: username
-    #   title: Github
+    github: 
+      link: https://github.com/daxsorbito
+      title: Github
     # option to specify your twitter username in the footer; 
     # **uncomment** the below lines to show in footer
     # twitter: 
@@ -141,45 +141,45 @@ languages:
   en:
     languageName:       English
     weight:             1
-  ru:
-    languageName:       Russian
-    weight:             2
-    # When Specifying different parameters for a different language 
-    # you need to specify all the mandatory sub-parameters as well.
-    # E.g.: if you specify the "homepage" parameter then you need to
-    #       specify all mandatory sub-parameters, e.g.: "title". 
-    # See example below:
-    params:
-      homepage:
-        title: Julia белая краска
-        subtitle: Персональный сайт и блог
-        image: "/images/avataaars.png" # worker.svg 
-        imageWidth: 500px
+  # ru:
+    # languageName:       Russian
+    # weight:             2
+    # # When Specifying different parameters for a different language 
+    # # you need to specify all the mandatory sub-parameters as well.
+    # # E.g.: if you specify the "homepage" parameter then you need to
+    # #       specify all mandatory sub-parameters, e.g.: "title". 
+    # # See example below:
+    # params:
+    #   homepage:
+    #     title: Julia белая краска
+    #     subtitle: Персональный сайт и блог
+    #     image: "/images/avataaars.png" # worker.svg 
+    #     imageWidth: 500px
       
-      # Some sub-parameters of the "footer" parameter
-      # can be omitted because the code allows for them to be 
-      # missed but they will treated as they do not exist,
-      # i.e., the parameters of the default language
-      # won't be inherited.
-      footer:
-        logo: "/images/refresh-square.svg"
-        email: 
-          link: имя.фамилия@домен.com
-          title: Эл. адрес
-        linkedin: 
-          link: your_linkedin_profile
-          title: LinkedIn
-        # facebook: 
-        #   link: your.username
-        #   title: Facebook 
-        # twitter: 
-        #   link: username
-        #   title: Twitter
-        # instagram: 
-        #   link: username
-        #   title: Instagram
-        # github: 
-        #   link: username
-        #   title: Github
-        copyright: Julia белая краска - 2019
+    #   # Some sub-parameters of the "footer" parameter
+    #   # can be omitted because the code allows for them to be 
+    #   # missed but they will treated as they do not exist,
+    #   # i.e., the parameters of the default language
+    #   # won't be inherited.
+    #   footer:
+    #     logo: "/images/refresh-square.svg"
+    #     email: 
+    #       link: имя.фамилия@домен.com
+    #       title: Эл. адрес
+    #     linkedin: 
+    #       link: your_linkedin_profile
+    #       title: LinkedIn
+    #     # facebook: 
+    #     #   link: your.username
+    #     #   title: Facebook 
+    #     # twitter: 
+    #     #   link: username
+    #     #   title: Twitter
+    #     # instagram: 
+    #     #   link: username
+    #     #   title: Instagram
+    #     # github: 
+    #     #   link: username
+    #     #   title: Github
+    #     copyright: Julia белая краска - 2019
       
