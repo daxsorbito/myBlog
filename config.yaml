@@ -109,7 +109,7 @@ params:
     #   title: My Email
     # option to specify your linkedin profile in the footer
     linkedin: 
-      link: https://www.linkedin.com/in/daxsorbito/
+      link: in/daxsorbito/
       title: My LinkedIn
     # option to specify your facebook account in the footer; 
     # **uncomment** the lines below to show in footer
@@ -119,7 +119,7 @@ params:
     # option to specify your github account in the footer; 
     # **uncomment** the below lines to show in footer
     github: 
-      link: https://github.com/daxsorbito
+      link: daxsorbito
       title: Github
     # option to specify your twitter username in the footer; 
     # **uncomment** the below lines to show in footer

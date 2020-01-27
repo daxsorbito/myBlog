@@ -1,7 +1,9 @@
 ---
-title: "About"
+title: "About Me"
 date: 2020-01-27T08:45:19+08:00
 showInMenu: true
+summaryImage: "images/image.jpeg"
+summary: "All about me. 😉"
 ---
 
 Hi, I'm Dax and a Software Engineer by profession. Married, no kids yet and love dogs.🙂
